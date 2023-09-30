@@ -1,5 +1,4 @@
 # Hi there, I'm Selin 👋
-<img src="https://github-readme-stats.vercel.app/api?username=SelinKararmaz&show_icons=true&theme=radical" />
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
